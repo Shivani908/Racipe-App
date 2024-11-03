@@ -14,7 +14,7 @@ const Home = () => {
                     esse id atque sapiente similique quis, velit fugit, nemo
                     unde consectetur voluptatem sequi repellat.
                 </p>
-                <button className="bg-green-600 text-white py-2 px-5 hover:bg-green-700 duration-200">
+                <button className="bg-green-600 text-white py-2 px-5 hover:bg-blue-700 duration-200">
                     Get Started &nbsp; &#8594;
                 </button>
             </div>
