@@ -10,7 +10,7 @@ const Nav = () => {
                 alt=""
             />
             <div className="flex gap-x-10 text-md items-center">
-                <Link className="hover:text-green-600 duration-200" to="/">
+                <Link className="hover:text-gray-600 duration-200 font-semibold text-xl" to="/">
                     Home
                 </Link>
                 <Link
