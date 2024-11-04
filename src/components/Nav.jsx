@@ -14,7 +14,7 @@ const Nav = () => {
                     Home
                 </Link>
                 <Link
-                    className="hover:text-green-600 duration-200"
+                    className="hover:text-gray-600 duration-200 font-semibold text-xl"
                     to="/recipes"
                 >
                     Recipes
