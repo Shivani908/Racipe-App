@@ -23,13 +23,13 @@ const Nav = () => {
                     About
                 </Link>
                 <Link
-                    className="hover:text-green-600 duration-200"
+                    className="hover:text-gray-600 duration-200 font-semibold text-xl"
                     to="/contact"
                 >
                     Contact
                 </Link>
             </div>
-            <i className="text-3xl ri-grid-fill text-green-600"></i>
+            <i className="text-3xl ri-grid-fill text-gray-600"></i>
         </nav>
     );
 };
