@@ -48,7 +48,7 @@ const Details = () => {
                     </div>
                 </div>
                 <div className="desc w-[50%] px-[5%] py-[3%] overflow-auto">
-                    <h1 className="text-3xl border-b border-green-600 text-green-600">
+                    <h1 className="text-3xl border-b border-gray-600 text-green-600">
                         Ingredients
                     </h1>
                     <ul className="text-zinc-600 list-disc  p-3 ">
