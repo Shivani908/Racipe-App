@@ -58,7 +58,7 @@ const Details = () => {
                             </li>
                         ))}
                     </ul>
-                    <h1 className="text-3xl border-b border-green-600 text-green-600">
+                    <h1 className="text-3xl border-b border-gray-600 text-gray-600">
                         Instructions
                     </h1>
                     <ul className="text-zinc-600 list-decimal  p-3 ">
@@ -72,7 +72,7 @@ const Details = () => {
             </div>
         </div>
     ) : (
-        <h1 className="w-full text-center text-4xl text-green-600 mt-10">
+        <h1 className="w-full text-center text-4xl text-gray-600 mt-10">
             Loading Recipe...
         </h1>
     );
