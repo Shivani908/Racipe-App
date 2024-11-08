@@ -40,7 +40,7 @@ const Update = () => {
 
     return recipe ? (
         <form onSubmit={UpdateHandler} className="w-[70%] m-auto  ">
-            <h1 className="text-7xl mt-5 font-extrabold text-green-600 mb-[5%]">
+            <h1 className="text-7xl mt-5 font-extrabold text-gray-600 mb-[5%]">
                 Update <br /> Existing Recipe
             </h1>
             <input
@@ -82,7 +82,7 @@ const Update = () => {
             </div>
         </form>
     ) : (
-        <h1 className="w-full text-center text-4xl text-green-600 mt-10">
+        <h1 className="w-full text-center text-4xl text-gray-600 mt-10">
             Loading Recipe...
         </h1>
     );
