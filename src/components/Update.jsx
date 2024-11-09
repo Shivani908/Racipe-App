@@ -76,7 +76,7 @@ const Update = () => {
                 placeholder="recipe instructions -> 'use comma to seperate instructions'..."
             ></textarea>
             <div className="w-full text-right">
-                <button className="rounded-md text-xl bg-green-600 text-white py-2 px-5 hover:bg-green-700 duration-200">
+                <button className="rounded-md text-xl bg-gray-600 text-white py-2 px-5 hover:bg-gray-700 duration-200">
                     Re-Publish Recipe &nbsp; &#8594;
                 </button>
             </div>
