@@ -19,7 +19,7 @@ const Home = () => {
                 </button>
             </div>
             <img
-                // className="w-1/2"
+                className="w-1/2"
                 src="https://static.vecteezy.com/system/resources/previews/021/333/207/original/white-plate-with-food-isolated-on-a-transparent-background-png.png"
                 alt=""
             />
