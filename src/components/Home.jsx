@@ -20,7 +20,7 @@ const Home = () => {
             </div>
             <img
                 className="w-1/2"
-                src="https://www.pngall.com/wp-content/uploads/8/Cooking-Recipe-PNG-Clipart.png"
+                src="https://static.vecteezy.com/system/resources/previews/021/333/207/original/white-plate-with-food-isolated-on-a-transparent-background-png.png"
                 alt=""
             />
         </div>
