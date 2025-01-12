@@ -5,7 +5,7 @@ const Home = () => {
     return (
         <div className="w-full flex justify-between items-center  h-[60vh]">
             <div className="left w-1/2 ">
-                <h1 className="text-7xl font-extrabold text-gray-600">
+                <h1 className="text-5xl font-extrabold text-gray-600">
                     SIMPLE AND TASTY RECIPES
                 </h1>
                 <p className="text-zinc-400 mt-5 mb-10">
